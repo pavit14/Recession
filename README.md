@@ -5,10 +5,12 @@ This is a Dashboard that analyzes economic data to identify periods of recession
 cleaning and analysis techniques to ensure data accuracy and reliability
 * Produced compelling visualizations with exceptional proficiency in data visualization tools, such as Tableau, Flourish and Datawrapper to convey complex data in a clear manner and analyzed data to identify key insights and trends
 
+<p><a href="https://sites.google.com/view/compvizg24/home" title="Link">Link </a></p>
+
 ## Tools
 * DataWrapper
 * Flourish
 * Tableau
 
-<p><a href="https://sites.google.com/view/compvizg24/home" title="Link">foo</a></p>
+
 
