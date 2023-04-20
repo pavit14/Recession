@@ -7,10 +7,19 @@ cleaning and analysis techniques to ensure data accuracy and reliability
 
 <p><a href="https://sites.google.com/view/compvizg24/home" title="Link">Link </a></p>
 
-## Tools
-* DataWrapper
+## Tasks Performed
+* 🧹 Data Cleaning (Handling Missing Values)
+* 📊 Data Visualization
+
+## Tools 
+* Python
 * Flourish
+* Datawrapper
 * Tableau
+
+
+
+
 
 
 
