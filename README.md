@@ -1,5 +1,6 @@
-<p><a href="https://sites.google.com/view/compvizg24/home" title="Link"> # Impacts of Recession </a></p>
-This is a Dashboard that analyzes economic data to identify periods of recession in the United States.
+# Impacts of Recession 
+<p><a href="https://sites.google.com/view/compvizg24/home" title="Link"> BLOG </a></p>
+This is a Blog that analyzes economic data to identify periods of recession in the United States.
 
 * Developed expertise in economic trends and patterns, expanding knowledge in the field and employed data collection,
 cleaning and analysis techniques to ensure data accuracy and reliability
